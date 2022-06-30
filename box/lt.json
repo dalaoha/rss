@@ -1,0 +1,25 @@
+[
+  {
+    "articleStyle": 0,
+    "customOrder": 0,
+    "enableJs": true,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "loadWithBaseUrl": true,
+    "loginUi": "",
+    "loginUrl": "http://5yd.cc/user-login.htm",
+    "ruleArticles": ".media-body",
+    "ruleContent": "",
+    "ruleImage": "img@src",
+    "ruleLink": "a.0@href",
+    "ruleNextPage": "page",
+    "rulePubDate": "发帖:{{@.username@text}} {{@.date.text-grey@text}}  {{@.hidden-sm@text}} 回复数:{{@.ml-2.thread_pl@text}}",
+    "ruleTitle": "{{@a@text}}  {{@.badge-secondary@text}}  {{@.username@text}}",
+    "singleUrl": false,
+    "sortUrl": "书源::http://5yd.cc/forum-3-{{page}}.htm\n软件::http://5yd.cc/forum-2-{{page}}.htm\n交流::http://5yd.cc/forum-1-{{page}}.htm\n教程::http://5yd.cc/forum-4-{{page}}.htm\n主题::http://5yd.cc/forum-5-{{page}}.htm\n开发::http://5yd.cc/forum-6-{{page}}.htm",
+    "sourceComment": "部分源登陆才能看到\n部分源回帖才能看到",
+    "sourceIcon": "https://5yd.cc/upload/avatar/000/1.png",
+    "sourceName": "66书源论坛(务必更新)(更新导入为全能，务必更新)",
+    "sourceUrl": "http://5yd.cc"
+  }
+]

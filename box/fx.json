@@ -1,0 +1,15 @@
+[
+  {
+    "articleStyle": 0,
+    "customOrder": 0,
+    "enableJs": true,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "loadWithBaseUrl": true,
+    "singleUrl": true,
+    "sourceComment": "备用地址\nhttp://dalaoha.github.io/yuedu",
+    "sourceIcon": "",
+    "sourceName": "发现生成(必看源注释)",
+    "sourceUrl": "https://inisqw.gitee.io/yuedu"
+  }
+]
